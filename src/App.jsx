@@ -8,7 +8,7 @@ function App() {
       fontSize: '2rem',
       fontFamily: 'sans-serif'
     }}>
-      <h1>Hello Kubernetes..!</h1>
+      <h1>Hello again Kubernetes..!</h1>
     </div>
   )
 }
