@@ -11,7 +11,7 @@ function App() {
       fontSize: '2rem',
       fontFamily: 'sans-serif'
     }}>
-      <h1>Hello #11 Kubernetes..!</h1>
+      <h1>Hello #11 Kubernetes!</h1>
     </div>
     <div>
       <small>From {import.meta.env.VITE_ENVIRONMENT}</small>
