@@ -10,7 +10,7 @@ function App() {
       fontSize: '2rem',
       fontFamily: 'sans-serif'
     }}>
-      <h1>Hello #9 Kubernetes..! From {import.meta.env.VITE_ENVIRONMENT}</h1>
+      <h1>Hello #10 Kubernetes..! From {import.meta.env.VITE_ENVIRONMENT}</h1>
     </div>
   )
 }
