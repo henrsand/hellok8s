@@ -2,6 +2,7 @@ function App() {
   console.log(import.meta.env)
 
   return (
+    <>
     <div style={{
       display: 'flex',
       justifyContent: 'center',
@@ -10,8 +11,12 @@ function App() {
       fontSize: '2rem',
       fontFamily: 'sans-serif'
     }}>
-      <h1>Hello #10 Kubernetes..! From {import.meta.env.VITE_ENVIRONMENT}</h1>
+      <h1>Hello #11 Kubernetes..!</h1>
     </div>
+    <div>
+      <small>From {import.meta.env.VITE_ENVIRONMENT}</small>
+    </div>
+    </>
   )
 }
 
